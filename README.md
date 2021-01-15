@@ -17,7 +17,7 @@
 データセットのURL:
 
 ```bash
-
+https://sagacentralstorage.blob.core.windows.net/dataset/potato-chips.zip
 ```
 
 ダウンロードしたファイルを解凍すると、`potato-chips` というフォルダに以下のようにファイルが入っています。
